@@ -94,16 +94,6 @@ Soon:
 - Compatibility with multiple files types (Llama Index)
 - Compatibility with offline models (HuggingFace, Vicuna, Alpaca)
 
-# 💻 Contributing
-
-If you would like to contribute to the LangChain Chatbot, please follow these steps:
-
-1. Fork the repository
-2. Create a new branch for your feature or bug fix
-3. Write tests for your changes
-4. Implement your changes and ensure that all tests pass
-5. Submit a pull request
-
 # 📝 Credits
 
 The LangChain Chatbot was developed by [Haste171](https://github.com/Haste171) with much inspiration from [Mayo](https://twitter.com/mayowaoshin) with the [GPT4 & LangChain Chatbot for large PDF docs](https://github.com/mayooear/gpt4-pdf-chatbot-langchain). This project is mainly a port to Python from the Mayo chatbot.
