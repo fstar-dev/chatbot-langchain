@@ -32,7 +32,7 @@ Prerequisites:
 
 ## Setup
 ```
-git clone https://github.com/Haste171/langchain-chatbot.git
+git clone https://github.com/fstar-dev/chatbot-langchain.git
 ```
 
 *Recommended to use a virtual environment*
@@ -40,7 +40,7 @@ git clone https://github.com/Haste171/langchain-chatbot.git
 pip install -r requirements.txt
 ```
 
-Reference [example.env](https://github.com/Haste171/langchain-chatbot/blob/main/example.env) to create credentials file
+Reference [example.env](https://github.com/fstar-dev/chatbot-langchain/blob/main/example.env) to create credentials file
 ```python
 OPENAI_API_KEY=
 PINECONE_API_KEY=
