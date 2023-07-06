@@ -1,6 +1,6 @@
 <p align="center">
 <br><br><br>
-<a https://github.com/Haste171/langchain-chatbot/stargazers"><img src="https://cdn.discordapp.com/attachments/1095427515717267658/1102434550782632016/f.png" width="760px" length="400"></a>
+<a https://github.com/Haste171/langchain-chatbot/stargazers"/a>
 <br><br><br>
 </p>
 
@@ -9,18 +9,9 @@
 </b>Existing repo development is at a freeze while we develop a langchain chat bot website :)</b>
 </p>
 
-<p align=center>
-<a href="https://github.com/Haste171/langchain-chatbot/releases"><img src="https://badgen.net/github/release/Haste171/langchain-chatbot">
-<a href="https://gitHub.com/Haste171/langchain-chatbot/graphs/commit-activity"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg">
-<a href="https://github.com/Haste171/langchain-chatbot/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Haste171/langchain-chatbot">
-<a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square">
-
-</a>
-
 <!-- *The LangChain Chatbot is an AI chat interface for the open-source library LangChain. It provides conversational answers to questions about vector ingested documents.* -->
 <!-- *Existing repo development is at a freeze while we develop a langchain chat bot website :)* -->
 
-Maintained by Developers of [legalyze.ai](https://legalyze.ai)
 
 # 🚀 Installation
 
