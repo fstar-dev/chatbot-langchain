@@ -99,3 +99,10 @@ The LangChain Chatbot is released under the [MIT License](https://opensource.org
 
 # 💻 Interface
 ![fixed-prev](https://user-images.githubusercontent.com/34923485/235337390-1b9bf06a-2512-4e22-87c7-8559533eb9d3.png)
+
+# 💻 Contact Info
+
+email: fantasticdev1992@gmail.com
+telegram: finaldev717
+
+
